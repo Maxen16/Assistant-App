@@ -1,6 +1,6 @@
 # voice_assistant
 
-A new Flutter project.
+A new Flutter project, an assistant app that can answer your questions and can generate images. Both these features are powered by Open AI API's.
 
 ## Getting Started
 
